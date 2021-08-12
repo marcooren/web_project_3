@@ -1,0 +1,15 @@
+
+
+
+.cover {
+  width: 100%;
+  position: relative;
+  box-sizing: border-box;
+  padding: 0 48px 0;
+}
+
+@media (max-width: 1279px) {
+  .cover {
+    padding: 0;
+  }
+}

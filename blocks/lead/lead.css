@@ -1,0 +1,27 @@
+
+
+
+.lead {
+  padding: 0 148px 92px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media (max-width: 1280px) {
+  .lead {
+    padding: 0 48px 92px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .lead {
+    padding: 0 0 88px;
+  }
+}
+
+@media (max-width: 675px) {
+  .lead {
+    padding: 0 0 64px;
+  }
+}
