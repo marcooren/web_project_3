@@ -1,5 +1,12 @@
 # Project 3: From Portland to Portland
 
+What i used:
+HTML
+CSS
+Flex Box and Grid
+BEM
+Responsive via Media Queries
+
 ### Overview
 * Intro
 * Figma
