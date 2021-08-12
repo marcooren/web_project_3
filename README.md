@@ -7,6 +7,9 @@ Flex Box and Grid
 BEM
 Responsive via Media Queries
 
+link to the site via github pages:
+https://marcooren.github.io/web_project_3/
+
 ### Overview
 * Intro
 * Figma
