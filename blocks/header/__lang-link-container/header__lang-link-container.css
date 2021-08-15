@@ -5,3 +5,10 @@
     align-items: flex-end;
   }
   
+
+
+  @media (max-width: 320px) {
+    .header__lang-link-container {
+      margin-right:32px;
+    }
+  }
