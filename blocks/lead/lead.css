@@ -1,6 +1,3 @@
-
-
-
 .lead {
   padding: 0 148px 92px;
   display: flex;
@@ -26,14 +23,11 @@
   }
 }
 
-
 @media (max-width: 320px) {
   .lead {
     padding: 0 16px 88px;
   }
 }
-
-
 
 @media (max-width: 675px) {
   .lead {

@@ -18,17 +18,15 @@
   }
 }
 
-
 @media (max-width: 768px) {
   .header {
     padding: 0 24px 50px;
   }
 }
 
-
 @media (max-width: 320px) {
   .header {
-    width:320px;
+    width: 320px;
     padding: 0 16px 50px;
   }
 }

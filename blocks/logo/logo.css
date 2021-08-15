@@ -1,10 +1,9 @@
 .logo {
-    max-width: 190px;
+  max-width: 190px;
+}
+
+@media (max-width: 675px) {
+  .logo {
+    max-width: 156px;
   }
-  
-  @media (max-width: 675px) {
-    .logo {
-      max-width: 156px;
-    }
-  }
-  
+}
