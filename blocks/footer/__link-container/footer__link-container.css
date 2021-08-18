@@ -5,8 +5,10 @@
   padding: 0;
   justify-content: flex-start;
 }
-@media (max-width: 675px) {
+
+@media (max-width: 320px) {
   .footer__link-container {
     flex-direction: column;
+   
   }
-}
+} 

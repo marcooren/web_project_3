@@ -25,12 +25,7 @@
 
 @media (max-width: 320px) {
   .lead {
+    
     padding: 0 16px 88px;
-  }
-}
-
-@media (max-width: 675px) {
-  .lead {
-    padding: 0 0 64px;
   }
 }

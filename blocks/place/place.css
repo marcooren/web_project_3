@@ -19,10 +19,11 @@
   }
 }
 
-@media (max-width: 675px) {
+@media (max-width: 320px) {
   .place {
     grid-template-columns: 1fr;
     padding-bottom: 49px;
     grid-gap: 30px;
   }
 }
+ 

@@ -12,3 +12,10 @@
     line-height: 12px;
   }
 }
+
+
+@media (max-width: 320px) {
+  .place__url-heading  {
+    line-height: 12px;
+  }
+}
