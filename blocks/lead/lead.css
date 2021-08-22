@@ -1,31 +1,14 @@
 .lead {
-  padding: 0 148px 92px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  max-width: 984px;
+  margin: auto;
 }
-
-@media (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
   .lead {
-    padding: 0 48px 92px;
+    max-width: 928px;
   }
 }
-
-@media (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .lead {
-    padding: 0 48px 88px;
-  }
-}
-
-@media (max-width: 768px) {
-  .lead {
-    padding: 0 24px 88px;
-  }
-}
-
-@media (max-width: 320px) {
-  .lead {
-    
-    padding: 0 16px 88px;
+    width: 100%;
   }
 }

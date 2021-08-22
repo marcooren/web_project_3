@@ -1,0 +1,12 @@
+.place__links {
+  grid-area: links;
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+}
+
+@media screen and (max-width: 570px) {
+  .place__links {
+    margin: 0 16px 30px;
+  }
+}

@@ -1,0 +1,7 @@
+@media screen and (max-width: 500px) {
+  .place__text {
+    box-sizing: border-box;
+    min-width: 288px;
+    padding: 0 16px 0;
+  }
+}

@@ -1,0 +1,19 @@
+.main {
+  max-width: 1280px;
+}
+.page__container {
+  max-width: 1280px;
+  background-color: #2a2c2f;
+  padding: 0;
+  margin: auto;
+}
+@media screen and (max-width: 1279px) {
+  .page__container {
+    max-width: 1024px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .page__container {
+    min-width: 320px;
+  }
+}

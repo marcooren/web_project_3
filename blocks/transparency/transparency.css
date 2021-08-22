@@ -1,9 +1,0 @@
-.transparency {
-  opacity: 1;
-  transition: opacity;
-  transition-duration: 0.3s;
-  transition-timing-function: ease;
-}
-.transparency:hover {
-  opacity: 0.8;
-}
